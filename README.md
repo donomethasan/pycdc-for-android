@@ -15,6 +15,8 @@ chmod 755 ./pycdc
 ./pycdc [PATH TO YOUR PYC FILE]
 
 example: ./pycdc /sdcard/SimpleServer.pyc
+
+
          ./pycdc /sdcard/SimpleServer.pyc > SimpleServer.py
 
 
