@@ -12,12 +12,16 @@ Now type cat /sdcard/pycdc > pycdc
 
 chmod 755 ./pycdc
 
-./pycdc [PATH TO YOUR PYC FILE]
+./pycdc [PATH TO YOUR PYC 
 
-example: ./pycdc /sdcard/SimpleServer.pyc
+Example 
 
 
-         ./pycdc /sdcard/SimpleServer.pyc > SimpleServer.py
+./pycdc /sdcard/SimpleServer.pyc
+
+
+
+./pycdc /sdcard/SimpleServer.pyc > SimpleServer.py
 
 
 Thanks to zrax to make this https://github.com/zrax/pycdc great project for pc
