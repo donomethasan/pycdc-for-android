@@ -13,7 +13,7 @@ Now type cat /sdcard/pycdc > pycdc
 
 chmod 755 ./pycdc
 
-./pycdc [PATH TO YOUR PYC 
+./pycdc [PATH TO YOUR PYC FILE]
 
 Example 
 
