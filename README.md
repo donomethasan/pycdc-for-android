@@ -22,7 +22,7 @@ Example
 
 
 
-./pycdc /sdcard/SimpleServer.pyc > SimpleServer.py
+./pycdc /sdcard/SimpleServer.pyc > /sdcard/SimpleServer.py
 
 
 Thanks to zrax to make this https://github.com/zrax/pycdc great project for pc
