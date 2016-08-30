@@ -3,6 +3,7 @@ All in one interactive python decompiler for android
 Usage Tutorial
 
 First Install Terminal Emulator from Google Playstore
+https://play.google.com/store/apps/details?id=jackpal.androidterm
 
 Download pycdc executable  and move it to your root directory of sdcard
 
