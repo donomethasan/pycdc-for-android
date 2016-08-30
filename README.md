@@ -5,7 +5,7 @@ Usage Tutorial
 First Install Terminal Emulator from Google Playstore
 https://play.google.com/store/apps/details?id=jackpal.androidterm
 
-Download pycdc executable  and move it to your root directory of sdcard
+Download pycdc binary and move it to your root directory of sdcard
 
 Open Terminal Emulator Then type cd press enter
 
